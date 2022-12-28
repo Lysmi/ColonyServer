@@ -8,4 +8,4 @@
 # Uncomment the next line to set it.
 # -Xmx4G
 
--Xmx2G -Xmn128M
+-Xmx4G -Xmn128M
